@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+menu {
+    height: 70px;
+    background-color: #5493ca;
+    padding: 10px 0;
+}
